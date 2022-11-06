@@ -1,0 +1,1 @@
+export type SaveHTML = {__html: string};
